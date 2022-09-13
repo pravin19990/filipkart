@@ -1,0 +1,14 @@
+.aa{
+    width: 100%;
+    height: 400px;
+    background-color: gray;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.first{
+    margin-left: 10px;
+    
+}
